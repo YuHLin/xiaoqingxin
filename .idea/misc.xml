@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/xiaoqingxin-server/pom.xml" />
         <option value="$PROJECT_DIR$/xiaoqingxin-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaoqingxin-admin/pom.xml" />
       </list>
     </option>
   </component>

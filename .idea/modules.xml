@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/xiaoqingxin.iml" filepath="$PROJECT_DIR$/xiaoqingxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoqingxin-admin/xiaoqingxin-admin.iml" filepath="$PROJECT_DIR$/xiaoqingxin-admin/xiaoqingxin-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaoqingxin-api/xiaoqingxin-api.iml" filepath="$PROJECT_DIR$/xiaoqingxin-api/xiaoqingxin-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaoqingxin-core/xiaoqingxin-core.iml" filepath="$PROJECT_DIR$/xiaoqingxin-core/xiaoqingxin-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaoqingxin-interface/xiaoqingxin-interface.iml" filepath="$PROJECT_DIR$/xiaoqingxin-interface/xiaoqingxin-interface.iml" />
